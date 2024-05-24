@@ -1,1 +1,1 @@
-# kitty-kitty.conf
+# kittyTerminal
